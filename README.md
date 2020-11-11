@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-Technologies: Python, matplotlib, nltk
+- Technologies: Python, matplotlib, nltk
 
 * Analyse different emotions present in an essay like sadness, happiness, jealousy, etc
 * Plot those emotions on a graph
